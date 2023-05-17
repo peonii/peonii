@@ -5,7 +5,7 @@ hi! im peony! im your average self-taught programmer who really likes rust and w
 ---
 
 - pronouns -> `she/her` 💖
-- projects -> cosmolight 🌠 (paused), moonstone 🌙
+- projects -> cosmolight 🌠, moonstone 🌙
 - discord -> `peony#6666` 🗨️
 - nationality -> polish 🇵🇱
 
