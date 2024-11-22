@@ -1,6 +1,6 @@
 ### 🌸 hi! im peony!
 
-hi! im peony! im your average self-taught programmer who really likes rust and webdev for some reason!
+hi! im peony! im your average self-taught programmer who really likes rust for some reason!
 
 ---
 
