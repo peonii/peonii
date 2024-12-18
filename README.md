@@ -5,7 +5,7 @@ hi! im peony! im your average self-taught programmer who really likes rust for s
 ---
 
 - pronouns -> `she/her` 💖
-- projects -> [omegabot](https://omegabot.shop/)
+- projects -> silicate, [omegabot](https://omegabot.shop/)
 - discord -> `peony` 🗨️
 - nationality -> polish 🇵🇱
 
