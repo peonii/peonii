@@ -1,17 +1,17 @@
-### 🌸 hi! im peony!
+### me
 
-hi! im peony! im your average self-taught programmer who really likes rust for some reason!
-
----
-
-- pronouns -> `she/her` 💖
-- projects -> silicate, [omegabot](https://omegabot.shop/)
-- discord -> `peony` 🗨️
-- nationality -> polish 🇵🇱
+hello! i'm peony!
 
 ---
 
-if you like what you see, feel free to give me a follow! ✨
+- she/her
+- working on [silicate](https://github.com/silicate-bot), [omegabot](https://omegabot.shop/)
+- `peony` on discord
+- polish 🇵🇱
+
+---
+
+if you like what you see, feel free to give me a follow!
 
 <!--
 **peonii/peonii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
