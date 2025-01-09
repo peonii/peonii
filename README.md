@@ -1,6 +1,6 @@
 ### me
 
-hello! i'm peony!
+hello! i'm peony! most of my projects are private, so this may look a little empty!
 
 ---
 
