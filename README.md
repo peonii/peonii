@@ -5,9 +5,10 @@ hello! i'm peony! most of my projects are private, so this may look a little emp
 ---
 
 - she/her
-- working on [silicate](https://github.com/silicate-bot), [omegabot](https://omegabot.shop/)
+- mainly working on [silicate](https://github.com/silicate-bot)
 - `peony` on discord
-- polish 🇵🇱
+- polish 🇵🇱 (living in the netherlands 🇳🇱)
+- studying CSE at TU Delft
 
 ---
 
